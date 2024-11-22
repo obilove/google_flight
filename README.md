@@ -17,11 +17,11 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/100percentBAKA/mui-landing-page.git
+   git clone https://github.com/obilove/google_flight.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd mui-landing-page
+   cd google_flight
    ```
 3. Install Dependencies
    ```bash
