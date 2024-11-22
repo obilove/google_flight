@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.Img {
+  width: 300px;
+}
+
+.Logo {
+  background-image: url(./assets/react.svg);
+}
